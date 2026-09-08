@@ -4,7 +4,7 @@ A discrete-event simulation of a parcel delivery depot, modeling truck arrivals,
 
 Developed as a project for the *Modeling and Simulation* course at Brno University of Technology, Faculty of Information Technology.
 
-**Team project** — co-authored with [Lukáš Procházka](https://github.com/xproch0u) (xproch0u).
+**Team project** — co-authored with [Lukáš Procházka](https://github.com/LukaskovoGitHub) (xproch0u).
 
 ## What it models
 
